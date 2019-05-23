@@ -629,7 +629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 adservice.google.co.in
 0.0.0.0 apiv2.moengage.com
-0.0.0.0 settings.crashlytics.com
+#0.0.0.0 settings.crashlytics.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 apiv3.moengage.com
 0.0.0.0 e-ssl.apsalar.com
@@ -642,7 +642,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 in-starlive.videoplaza.tv
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 decide.mixpanel.com
-0.0.0.0 reports.crashlytics.com
+#0.0.0.0 reports.crashlytics.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 in-starlive-preroll.videoplaza.tv
 0.0.0.0 cdn.auditude.com
@@ -10304,7 +10304,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecomadserver.com
 0.0.0.0 e.company-target.com
-0.0.0.0 e.crashlytics.com
+#0.0.0.0 e.crashlytics.com
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 edge.bnmla.com
@@ -40036,7 +40036,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 counter.monkeybanana2.com
 0.0.0.0 counter.monkeybanana3.com
 0.0.0.0 cpmly.com
-0.0.0.0 crashlytics.com
+#0.0.0.0 crashlytics.com
 0.0.0.0 cre.adjust-net.jp
 0.0.0.0 creative.prf.hn
 0.0.0.0 creativecarrer.com
